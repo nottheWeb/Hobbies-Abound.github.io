@@ -1,0 +1,18 @@
+.setup {
+	border-top: solid #ccc 3px;
+	border-bottom: solid #ccc 3px;
+	margin-bottom: 5%;
+}
+
+.setup:hover {
+	cursor: pointer;
+}
+
+.hidden {
+	text-align: center;
+	font-weight: bold;
+	border-top: solid black 3px;
+	border-bottom: solid black 3px;
+	background-color: yellow;
+	display: none;
+}
