@@ -11,8 +11,11 @@
 .hidden {
 	text-align: center;
 	font-weight: bold;
-	border-top: solid black 3px;
-	border-bottom: solid black 3px;
-	background-color: yellow;
+	margin-left: 10px;
+	border-top: solid black 2px;
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+	border-bottom: solid black 2px;
+	background-color: antiquewhite;
 	display: none;
 }
